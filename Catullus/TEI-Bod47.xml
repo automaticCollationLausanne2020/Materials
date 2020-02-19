@@ -1,0 +1,41 @@
+<?xml version='1.0' encoding='UTF-8'?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Catullus 2 according to Cod. Bodmer 47</title>
+      </titleStmt>
+      <publicationStmt>
+        <p>A sample file for exploring collation in Juxta Software</p>
+      </publicationStmt>
+      <sourceDesc>
+        <p>The source of this file is the Codex Bodmer 47 (first hand), available on e-codices</p>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <front/>
+    <body>
+      <lg type="poem" n="Catullus2">
+        
+        <pb n="1r"/>
+        <l n="13">Passeris appelatio</l>
+        <l n="14">Passer <choice><orig>delitiae</orig><reg>deliciae</reg></choice> meae puellae</l>
+        <l n="15">Qui cum ludere quem in sinu tenere</l>
+        <l n="16">Quoi primum digitum dare appetenti</l>
+        <l n="17">Atq<ex>ue</ex> acris solet incitare morsus</l>
+        
+        <pb n="1v"/>
+        <l n="1">Cum <choice><orig>desyderio</orig><reg>desiderio</reg></choice> meo nitenti</l>
+        <l n="2"><choice><orig>Charum</orig><reg>Carum</reg></choice> nescio quid libet iocari</l>
+        <l n="3">Insolatiolum sui doloris</l>
+        <l n="4">Credo ut <choice><orig>quum</orig><reg>cum</reg></choice> gravis acquiescat ardor</l>
+        <l n="5">Tecum ludere sicut ipsa possem</l>
+        <l n="6">Et tristis animi levare curas</l>
+        <l n="7">Tam gratum mihi q<ex>uam</ex> ferunt puellae</l>
+        <l n="8">Pernici aureolum fuisse malum</l>
+        <l n="9">Quod zonam soluit diu ligatam</l>
+      </lg>
+    </body>
+  </text>
+</TEI>
+

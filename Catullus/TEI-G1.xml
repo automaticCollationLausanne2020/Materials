@@ -1,0 +1,39 @@
+<?xml version='1.0' encoding='UTF-8'?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Catullus 2 according to manuscript G</title>
+      </titleStmt>
+      <publicationStmt>
+        <p>A sample file for exploring collation in Juxta Software</p>
+      </publicationStmt>
+      <sourceDesc>
+        <p>The source of this file is the manuscript G (first hand), available on Catullus online</p>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <front/>
+    <body>
+      <lg type="poem" n="Catullus2">
+        
+        <pb n="1r"/>
+        <l n="12">Fletus passeris Lesbie</l>
+        <l n="13">Passer <choice><orig>delicie</orig><reg>deliciae</reg></choice> <choice><orig>mee</orig><reg>meae</reg></choice> <choice><orig>puelle</orig><reg>puellae</reg></choice></l>
+        <l n="14">Qui cum ludere que<ex>m</ex> in sinu tene<ex>re</ex></l>
+        <l n="15">Qui primu<ex>m</ex> digitum dare at petenti</l>
+        <l n="16">Et acris solet incitare morsus</l>
+        <l n="17">Cum desiderio meo nitenti</l>
+        <l n="18">Carum nescio quid libet iocari</l>
+        <l n="19">Et solaciolum sui doloris</l>
+        <l n="20">Credo ut cu<ex>m</ex> gravis <choice><orig>adquiescet</orig><reg>acquiescet</reg></choice> ardor</l>
+        <l n="21">Tecum ludere sicut ipsa possem</l>
+        <l n="22">Et tristis animi levare curas</l>
+        <l n="23">Tam gratum est <choice><orig>michi</orig><reg>mihi</reg></choice> q<ex>uam</ex> feru<ex>n</ex>t <choice><orig>puelle</orig><reg>puellae</reg></choice></l>
+        <l n="24">Pernici aureolum fuisse malum</l>
+        <l n="25">Q<ex>uo</ex>d <choice><orig>çonam</orig><reg>zonam</reg></choice> soluit diu negatam</l>
+      </lg>
+    </body>
+  </text>
+</TEI>
+
