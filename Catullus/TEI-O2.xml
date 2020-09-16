@@ -1,0 +1,39 @@
+<?xml version='1.0' encoding='UTF-8'?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Catullus 2 according to manuscript O</title>
+      </titleStmt>
+      <publicationStmt>
+        <p>A sample file for exploring collation in Juxta Software</p>
+      </publicationStmt>
+      <sourceDesc>
+        <p>The source of this file is the manuscript O (second hand), available on Catullus online</p>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <front/>
+    <body>
+      <lg type="poem" n="Catullus2">
+        
+        <pb n="1r"/>
+        <l n="11">Passer <choice><orig>delicie</orig><reg>deliciae</reg></choice> <choice><orig>mee</orig><reg>meae</reg></choice> <choice><orig>puelle</orig><reg>puellae</reg></choice></l>
+        <l n="12">Qui cu<ex>m</ex> ludere q<ex>uem</ex> in sinu tene<ex>re</ex></l>
+        <l n="13">Cui p<ex>ri</ex>mu<ex>m</ex> digitu<ex>m</ex> dare at pete<ex>n</ex>ti</l>
+        <l n="14">Ea acris solet incitare morsus</l>
+        <l n="15">Cu<ex>m</ex> desiderio meo nitenti</l>
+        <l n="16"><choice><orig>Karum</orig><reg>Carum</reg></choice> nescio quid iubet ioca<ex>r</ex>i</l>
+        <l n="17">Et solaciolu<ex>m</ex> sui doloris</l>
+        <l n="18">Credo ut cu<ex>m</ex> gravis accquiescet dolor</l>
+        <l n="19">Secu<ex>m</ex> ludere sicut ip<ex>s</ex>a possem</l>
+        <l n="20">Et tristis animi levare curas</l>
+        <l n="21">Ta<ex>m</ex> gratu<ex>m</ex> e<ex>st</ex> <choice><orig>michi</orig><reg>mihi</reg></choice> q<ex>uam</ex> feru<ex>n</ex>t <choice><orig>puelle</orig><reg>puellae</reg></choice></l>
+        <l n="22">Pernici aureolu<ex>m</ex> fuisse malu<ex>m</ex></l>
+        <l n="23">Q<ex>uo</ex>d <choice><orig>çona<ex>m</ex></orig><reg>zonam</reg></choice> soluit diu negatam</l>
+      
+      </lg>
+    </body>
+  </text>
+</TEI>
+
