@@ -1,9 +1,8 @@
 # Installation
 
-01. Overview
-02. Quick start (for pros)
-03. CollateX installation
-04. Environment installation
+01. [Overview](#overview)
+02. [Quick start (for power users)](#quick-start-(for-power-users))
+03. [CollateX installation](#collatex-installation)
 
 ___
 
