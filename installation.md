@@ -1,8 +1,8 @@
 # Installation
 
-01. [Overview](#1.-overview)
-02. [Quick start (for power users)](#2.-quick-start-for-power-users)
-03. [CollateX installation](#3.-collatex-installation)
+01. Overview
+02. Quick start (for power users)
+03. CollateX installation
 
 ___
 
