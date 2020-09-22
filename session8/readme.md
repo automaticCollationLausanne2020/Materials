@@ -1,4 +1,4 @@
 # Session 8: Practice
 Environment configuration, making a simple collation (part II)
 
-[NOtebook](https://github.com/automaticCollationLausanne2020/Materials/blob/master/session8/Session08_Practice.ipynb) with practical exercises.
+[Notebook](https://github.com/automaticCollationLausanne2020/Materials/blob/master/session8/Session08_Practice.ipynb) with practical exercises.
