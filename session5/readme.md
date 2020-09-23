@@ -5,4 +5,4 @@ Automatic collation practise: environment configuration, making a simple collati
 - [Notebook](https://github.com/automaticCollationLausanne2020/Materials/blob/master/session5/Session05_PlainTextCollation.ipynb)
 
 ## Session 5b: reading from files
-- [Notebook]()
+- [Notebook](Session05_collateFiles.ipynb)

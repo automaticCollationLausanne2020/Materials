@@ -5,4 +5,4 @@ Theory of automatic collation and reflection about the use of digital tools for 
 Access to the app in the [github repository](https://github.com/enury/collation-viz) with a binder button.
 
 ## Session 3b: Manual and Automatic COllation
-- Slides
+- Slides: [HTML version](https://automaticcollationlausanne2020.github.io/session3b.html)
