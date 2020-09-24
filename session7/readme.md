@@ -5,4 +5,4 @@ Automatic collation practise: environment configuration, making a simple collati
 - [Notebook](https://github.com/automaticCollationLausanne2020/Materials/blob/master/session7/Session07_CollateXInputFormats.ipynb)
 
 ## Session 7b: normalization options
-- [Notebook]()
+- [Notebook](Session07b_Normalization.ipynb)
