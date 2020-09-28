@@ -4,7 +4,7 @@
 
 Programme Doctoral en Études Numériques of the University of Lausanne
 
-Website: https://automaticcollationlausanne2020.github.io/#program
+Website: https://automaticcollationlausanne2020.github.io
 
 ---
 
